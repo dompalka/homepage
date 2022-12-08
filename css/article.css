@@ -1,0 +1,15 @@
+.articleContent {
+  text-align: left;
+  line-height: 1.5;
+  padding: 16px;
+}
+
+.articleContent__heading {
+  background-color: #f9b617;
+  border-radius: 10px;
+  color: #000814;
+  padding: 8px;
+  border: 1px solid #f9b617;
+  margin: auto;
+  max-width: fit-content;
+}

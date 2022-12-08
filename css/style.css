@@ -1,0 +1,62 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  ::after ::before {
+    box-sizing: inherit;
+  }
+  
+  .mainBody {
+    text-align: center;
+    background-color: #000814;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    max-width: 1000px;
+    margin: auto;
+    padding: 24px;
+  }
+  
+  .lightMode {
+    max-width: 1000px;
+    text-align: center;
+    background-color: #fff;
+    color: #000814;
+    font-family: "Raleway", sans-serif;
+    overflow-x: auto;
+  }
+  
+  .mainBody__topHeader {
+    margin: 20px;
+    text-shadow: 3px 3px 8px #deeacc54;
+    font-size: 60px;
+  }
+  
+  .themeButton {
+    font-family: "Raleway", sans-serif;
+    color: #000814;
+    background-color: #f9b617;
+    border-radius: 10px;
+    border: 1px solid #ec790e;
+    margin: 24px;
+    font-size: large;
+    padding: 8px;
+    font-weight: 700;
+  }
+  
+  .themeButton:hover {
+    background-color: #ec790e;
+  }
+  
+  .image {
+    width: 300px;
+    border-radius: 10px;
+    margin: 24px;
+  }
+  
+  .footer {
+    margin: auto;
+    border-top: 1px solid #fff;
+    padding: 8px 0;
+    max-width: fit-content;
+  }
