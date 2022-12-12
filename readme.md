@@ -5,7 +5,7 @@ Preview of the website is available [here](https://dompalka.github.io/homepage/
 ).
 ## Preview:
 
-[![homepage.gif](https://s9.gifyu.com/images/homepage.gif)](https://gifyu.com/image/SkEwi)
+[![homepage8194b7bfe871cd7a.gif](https://s9.gifyu.com/images/homepage8194b7bfe871cd7a.gif)](https://gifyu.com/image/SkE3e)
 
 ## Description:
 
